@@ -1,6 +1,4 @@
 .status-bar {
-    
-    box-sizing: border-box;
     display: flex;
     justify-content: center;
     padding: 0px 3px;
