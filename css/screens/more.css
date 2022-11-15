@@ -31,10 +31,26 @@
 
 .more-suggestions__title {
     margin-bottom: 30px;
+    font-size: 16px;
+    font-weight: 800;
 }
 
 .more-suggestions__icon-image img {
     width: 60px;
     height: 60px;
     border-radius: 10%;
+    margin-bottom: 10px;
+}
+
+.more-suggestions__icons {
+    display: flex;
+}
+
+.more-suggestions__icon {
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: var(--gray);
+    font-weight: 600;
 }
