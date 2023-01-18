@@ -1,3 +1,3 @@
-# last-practice
+# Kakao Clone
 
-HTML & CSS are so much fun!
+카카오톡 따라 만들기
