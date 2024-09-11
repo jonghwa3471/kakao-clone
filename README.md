@@ -1,4 +1,4 @@
-# KaKao-Clone
+# Kakao-Clone
 
 ## 🔗 Demo
 
