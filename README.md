@@ -4,9 +4,9 @@
 https://jonghwa3471.github.io/study-html-kakao-clone/
 
 ## 🖥 Preview
-<img src="preview1"/>
-<img src="preview2"/>
-<img src="preview3"/>
+<img src="preview1.png"/>
+<img src="preview2.png"/>
+<img src="preview3.png"/>
 
 ## 🔥 Stack
 
