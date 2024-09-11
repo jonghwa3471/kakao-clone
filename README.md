@@ -1,8 +1,12 @@
 # Kakao-Clone
 
 ## 🔗 Demo
+https://jonghwa3471.github.io/study-html-kakao-clone/
 
 ## 🖥 Preview
+<img src="preview1"/>
+<img src="preview2"/>
+<img src="preview3"/>
 
 ## 🔥 Stack
 
